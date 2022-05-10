@@ -1,0 +1,12 @@
+C:\Users\zswogger\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\zswogger\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\zswogger\source\repos\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\zswogger\source\repos\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\zswogger\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\zswogger\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\zswogger\source\repos\Inventory\Inventory\obj\Debug\Inventory.exe
+C:\Users\zswogger\source\repos\Inventory\Inventory\obj\Debug\Inventory.pdb
+C:\Users\zswogger\source\repos\Inventory\Inventory\obj\Debug\Inventory.form_Home.resources
+C:\Users\zswogger\source\repos\Inventory\Inventory\obj\Debug\Inventory.uc_addItem.resources
+C:\Users\zswogger\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+C:\Users\zswogger\source\repos\Inventory\Inventory\obj\Debug\Inventory.form_ItemView.resources

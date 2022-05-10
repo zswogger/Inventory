@@ -1,0 +1,6 @@
+C:\Users\zswogger\source\repos\Inventory\Inventory\obj\Debug\Inventory.AddItem.resources
+C:\Users\zswogger\source\repos\Inventory\Inventory\obj\Debug\Inventory.Edit_Item.resources
+C:\Users\zswogger\source\repos\Inventory\Inventory\obj\Debug\Inventory.form_Home.resources
+C:\Users\zswogger\source\repos\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\zswogger\source\repos\Inventory\Inventory\obj\Debug\WD Inventory.csproj.GenerateResource.cache
+C:\Users\zswogger\source\repos\Inventory\Inventory\obj\Debug\WD Inventory.csproj.CoreCompileInputs.cache
